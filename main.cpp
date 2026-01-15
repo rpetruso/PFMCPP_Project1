@@ -51,85 +51,94 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
+//  1)            car
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  action 1:     the car accelerates
+car.accelerate();
+//  action 2:     the car brakes
+car.brakes();
+//  action 3:     the car turns
+car.turns();
 
 //  2)
+//  Noun:        person
+//  action 1:    the person walks
+person.walks();
+//  action 2:    the person jogs
+person.jogs();
+//  action 3:    the person runs
+person.runs();
+
+//  3)            audio
 //  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  action 1:     the audio plays
+audio.play();
+//  action 2:     the audio mutes
+audio.mute();
+//  action 3:    audio volume up
+audio.volumeUp();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        machine
+//  action 1:    the machine starts
+machine.start();
+//  action 2:    the machine operates
+machine.operate();
+//  action 3:    the machine stops
+machine.stop();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        bee
+//  action 1:    the bee flies
+bee.fly();
+//  action 2:    the bee stings
+bee.sting();
+//  action 3:    the bee pollinates
+bee.pollinate();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog runs
+dog.run();
+//  action 3:    the dog sleeps
+dog.sleep();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        cat
+//  action 1:    the cat purrs
+cat.purr();
+//  action 2:    the cat meows
+cat.meow();
+//  action 3:    the cat sleeps
+cat.sleep();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        cow
+//  action 1:    the cow moos
+cow.moo();
+//  action 2:    the cow eats
+cow.eat();
+//  action 3:    the cow moves
+cow.move();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        band
+//  action 1:    the band plays a song
+band.playSong();
+//  action 2:    the band plays a concert    
+band.playConcert();
+//  action 3:    the band records a song
+band.recordsSong();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        computer
+//  action 1:    computer blows up
+computer.blowUp();
+//  action 2:    computer takes over world
+computer.takeOverWorld();
+//  action 3:    computer destroys humans
+computer.destroyHumans();
 
 
 
