@@ -115,13 +115,13 @@ cat.meow();
 cat.sleep();
 
 //  8)
-//  Noun:        cow
-//  action 1:    the cow moos
-cow.moo();
-//  action 2:    the cow eats
-cow.eat();
-//  action 3:    the cow moves
-cow.move();
+//  Noun:        fishTank
+//  action 1:    add new fish
+fishTank.addNewFish();
+//  action 2:    do a water change
+fishTank.doWaterChange();
+//  action 3:    scrub the glass clean
+fishTank.scrubGlassClean();
 
 //  9)
 //  Noun:        band
